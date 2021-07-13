@@ -6,9 +6,13 @@ Problem Description- A dynamic banking website used to transfer money between mu
 Technology Stack used-
 
 Front - end : HTML, CSS, Bootstrap, JS
+
 Back-end : PHP
+
 Database : MySQL
+
 Server : Apache
+
 Code editor : Visual Studio Code
 
 Flow of the website -
